@@ -26,4 +26,4 @@ After that, a new window will pop up showing the original image. Just click on t
 Close the window pressing the *ESC* button to save the results!
 
 ## License:
-Feel free to use this program however you like!
+Feel free to use this program whatever you like!
